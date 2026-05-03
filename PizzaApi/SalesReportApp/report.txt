@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+Total Sales: $800.00
+
+Details:
+file1.txt: $600.00
+file2.txt: $200.00

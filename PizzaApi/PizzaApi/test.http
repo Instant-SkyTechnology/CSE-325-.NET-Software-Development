@@ -1,0 +1,23 @@
+GET http://localhost:5055/pizza
+
+###
+POST http://localhost:5055/pizza
+Content-Type: application/json
+
+{
+  "name": "Hawaiian",
+  "isGlutenFree": false
+}
+
+###
+PUT http://localhost:5055/pizza/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated Pizza",
+  "isGlutenFree": true
+}
+
+###
+DELETE http://localhost:5055/pizza/1

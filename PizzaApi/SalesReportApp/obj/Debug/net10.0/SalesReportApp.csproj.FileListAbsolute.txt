@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\bin\Debug\net10.0\SalesReportApp.exe
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\bin\Debug\net10.0\SalesReportApp.deps.json
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\bin\Debug\net10.0\SalesReportApp.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\bin\Debug\net10.0\SalesReportApp.dll
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\bin\Debug\net10.0\SalesReportApp.pdb
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.dll
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\refint\SalesReportApp.dll
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.pdb
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\SalesReportApp.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Documents\CSE 325 .NET Software Development\PizzaApi\SalesReportApp\obj\Debug\net10.0\ref\SalesReportApp.dll
