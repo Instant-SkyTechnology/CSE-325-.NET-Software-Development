@@ -31,7 +31,7 @@ static void GenerateSalesSummary(string directoryPath, string outputFile)
 
     // Build report
     report.AppendLine("Sales Summary");
-    report.AppendLine("----------------------------");
+    report.AppendLine("-----------------------------");
     report.AppendLine($"Total Sales: {totalSales:C}");
     report.AppendLine();
     report.AppendLine("Details:");

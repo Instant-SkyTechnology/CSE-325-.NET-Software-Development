@@ -14,7 +14,7 @@ var pizzas = new List<Pizza>
     new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
     new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true },
     new Pizza { Id = 3, Name = "Meat Lovers", IsGlutenFree = false },
-    new Pizza { Id = 4, Name = "BBQ Chicken", IsGlutenFree = false } // your addition
+    new Pizza { Id = 4, Name = "BBQ Chicken", IsGlutenFree = false } 
 };
 
 // Configure the HTTP request pipeline.
